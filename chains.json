@@ -1,0 +1,42 @@
+{
+  "0x6e2d543da53ec90ae25b97c4b203ddbac4cae64d8f984a6633746f63ffed9672": {
+    "contracts": {
+      "0xb84d125645e94e6329e6494db63830d1c68a719c328036dce55337f79a512e27": {
+        "name": "SimpleStorage",
+        "address": "0xFCB85d106A2ad9D26646D12d31f297CCA68A2cC5"
+      },
+      "0x3043b04ad856d169c8f0b0509c0bc63192dc7edd92d6933c58708298a0e381be": {
+        "name": "ENSRegistry",
+        "address": "0x12eE02a42E87DB49B476a6658bAD8561FC7B1Ba3"
+      },
+      "0x9e03c33678274cba94c0707a4594de736ebbad620aa27c14d2e920a5edfe22a3": {
+        "name": "Resolver",
+        "address": "0xF393EA3B155FA61A852E1D28AD5ceB62eeE46761"
+      },
+      "0xadb347098e712f688770db46a6162a6d34bdc86e063ce049e509f680775e6dce": {
+        "name": "FIFSRegistrar",
+        "address": "0xa8Edabf5d1213eb0a6d15E0bb000Eb3b18ac408a"
+      }
+    }
+  },
+  "0x024431056db8f1a3887fbbe170ae324f76d8ffd2b3b8fa67bd5d661bd030c688": {
+    "contracts": {
+      "0xb84d125645e94e6329e6494db63830d1c68a719c328036dce55337f79a512e27": {
+        "name": "SimpleStorage",
+        "address": "0x24AF81420D24e394c3836b6fbC6Ac1C51CF801f8"
+      },
+      "0x3043b04ad856d169c8f0b0509c0bc63192dc7edd92d6933c58708298a0e381be": {
+        "name": "ENSRegistry",
+        "address": "0xddCb3BD44731c452F573c962807A5439bF0fb478"
+      },
+      "0x6b43459a612bad7487b431a8eaad205886816218dbb317ea543a944237af83cf": {
+        "name": "Resolver",
+        "address": "0xf041c38bae8eb45Cb963CE4c59b3Da4FD5597054"
+      },
+      "0x8dcf9ea2c1d5b71eb9383f45ae22a4079b78eafe2f61dc4d125078a5391d88fc": {
+        "name": "FIFSRegistrar",
+        "address": "0x14216F4Bf6463af3e8e00b4595a6Ee725C56f9b2"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>Simple Ethereum Collider</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.36/dist/web3.min.js" integrity="sha256-nWBTbvxhJgjslRyuAKJHK+XcZPlCnmIAAMixz6EefVk=" crossorigin="anonymous"></script>
+  <script>
+    if (web3 !== undefined) {
+      // Use MetaMask's/Mist provider.
+      web3js = new Web3(web3.currentProvider);
+    }
+  </script>
+</head>
+<body class="container">
+<div id="app" style="color: red;"></div>
+<script src="js/dapp.js"></script>
+</body>
+</html>
